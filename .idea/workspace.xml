@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0ca250c5-cafe-4dc9-99a2-e6cde96fee3e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C16_Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/tdd/ACTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/tdd/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/tdd/BikeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/tdd/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/tdd/DrillerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/tdd/TVTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/AC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/Driller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/TV.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NN0G3NCstEc8InH7CzX7HWEgGf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/Chidinma Emeadi/IdeaProjects/Demo/src/account&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="tdd" />
+      <recent name="account" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="account" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BikeTest">
+    <configuration name="BikeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="C16_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tdd" />
+      <option name="MAIN_CLASS_NAME" value="tdd.BikeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BikeTest.checkBikeIsPresentAndOn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="C16_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tdd" />
+      <option name="MAIN_CLASS_NAME" value="tdd.BikeTest" />
+      <option name="METHOD_NAME" value="checkBikeIsPresentAndOn" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BikeTest.testBikeCanBeAccelerated" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="C16_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tdd" />
+      <option name="MAIN_CLASS_NAME" value="tdd.BikeTest" />
+      <option name="METHOD_NAME" value="testBikeCanBeAccelerated" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BikeTest.testBikeCanBeDeccelerated" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="C16_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tdd" />
+      <option name="MAIN_CLASS_NAME" value="tdd.BikeTest" />
+      <option name="METHOD_NAME" value="testBikeCanBeDeccelerated" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BikeTest.testBikeCanBeTurnedOff" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="C16_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tdd" />
+      <option name="MAIN_CLASS_NAME" value="tdd.BikeTest" />
+      <option name="METHOD_NAME" value="testBikeCanBeTurnedOff" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BikeTest" />
+        <item itemvalue="JUnit.BikeTest.testBikeCanBeDeccelerated" />
+        <item itemvalue="JUnit.BikeTest.testBikeCanBeAccelerated" />
+        <item itemvalue="JUnit.BikeTest.testBikeCanBeTurnedOff" />
+        <item itemvalue="JUnit.BikeTest.checkBikeIsPresentAndOn" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ca250c5-cafe-4dc9-99a2-e6cde96fee3e" name="Changes" comment="" />
+      <created>1679489137081</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679489137081</updated>
+      <workItem from="1679489138197" duration="7013000" />
+      <workItem from="1679506453934" duration="33000" />
+      <workItem from="1679528051623" duration="1503000" />
+      <workItem from="1679664357542" duration="720000" />
+      <workItem from="1679666841069" duration="62000" />
+      <workItem from="1679667757095" duration="10000" />
+      <workItem from="1679695440064" duration="11000" />
+      <workItem from="1679697152744" duration="4610000" />
+      <workItem from="1679756494598" duration="3205000" />
+      <workItem from="1679767473370" duration="942000" />
+      <workItem from="1679840165839" duration="4784000" />
+      <workItem from="1679845047803" duration="291000" />
+      <workItem from="1679845544052" duration="107000" />
+      <workItem from="1679845671801" duration="13000" />
+      <workItem from="1679875564967" duration="6609000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Test2/tdd/ACTest.java</url>
+          <line>30</line>
+          <properties class="tdd.ACTest" method="acDecreaseTemperature">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Test2/tdd/TVTest.java</url>
+          <line>9</line>
+          <properties class="tdd.TVTest" method="checkTVIsPresent">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Test2/tdd/TVTest.java</url>
+          <line>21</line>
+          <properties class="tdd.TVTest" method="changeChannel">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Test2/tdd/BikeTest.java</url>
+          <line>31</line>
+          <properties class="tdd.BikeTest" method="testBikeCanBeAccelerated">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
