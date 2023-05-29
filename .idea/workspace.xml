@@ -4,182 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ca250c5-cafe-4dc9-99a2-e6cde96fee3e" name="Changes" comment="Updated">
-      <change afterPath="$PROJECT_DIR$/Test2/Arrays/ArrayOfTenIntsRunTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/C16Tests/EncryptionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/C16Tests/FactoralTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/C16Tests/StringReverseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/Chapter5/ParkingChargesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/ChapterThree/HeartRateCalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/Diary/DiaryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/JoyTask/ArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/JoyTask/ValidateDataTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/ListInterface/Liste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/ListInterface/ListeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/Reflection/ThingsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/Snacks4/ParlindromeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/Stacks/Stacks1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/Tasks2/DoubleArrSizeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/Tasks2/MultiplyWithoutArithTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/TeachBright/AddNumbersTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/TeachBright/DivideNumberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/TeachBright/MultiplyNumberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/TeachBright/SetAndGetNameTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/TeachBright/SimpleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/TeachBright/SubtractNumberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/TimeClass/TimeClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/classwork/ClockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/classwork/DivisibleBy3Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/classwork/GeopoliticalZoneTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/classwork/ParlindromesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/classwork/TaxCalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/tdd/Status.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayList/ModifyArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayList/MoreOnArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayList/TryArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayMethods/TryArrayMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/ArrayOfTenInts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/ArrayOfTenIntsRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/ArrayReg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/ArraysAndFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/ArraysTrials.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/ElementsInArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/FindAverageIn2DArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/GetAverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/MaxAndMinInArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/MultidimensionalArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/SumValOfDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/TryAndCatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/TryArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/TryTwoDArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/TwoDArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C16Tests/Arithmetic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C16Tests/Encryption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C16Tests/Enums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C16Tests/EnumsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C16Tests/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C16Tests/NewFactorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C16Tests/StringReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C16Tests/StringReverseRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C16Tests/TriangleShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CardValidation/CreditCardValidation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/ParkingCharges.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/Parlindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/PerfectNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/RunParkingCharges.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChapterThree/HeartRates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodeWars/AddFive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodeWars/DnaToRna.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodeWars/IsItADigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodeWars/IsItAValidNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodeWars/SetAlarm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA/Stacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Diary/Dairy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JoyTask/ValidateData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MethodOverloading/OverloadMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MethodOverloading/OverloadMethodMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectsAndArguments/ArrTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectsAndArguments/MyArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PhoneApp/PhoneApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PhoneApp/PhoneAppControls.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PhoneAppTrial/MyApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PhoneAppTrial/MyPhoneApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reflection/Animals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reflection/Aves.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reflection/Invertibrate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reflection/LivingThing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reflection/Mammal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reflection/NonLivingThing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reflection/Pisces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reflection/Plants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reflection/Things.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reflection/Vertebrate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reflection/download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Snacks3/AddSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Snacks3/HeartRatesApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Snacks3/Patterns.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Snacks3/PrimeNums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Snacks3/SumOfNaturalNums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Snacks4/AlternateConcatArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Snacks4/ConcatenateArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Snacks4/FindElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Snacks4/GetEvenIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Snacks4/ListOfDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Snacks4/MaxInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Snacks4/NumbersAtEvenIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Snacks4/Parlindromes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Snacks4/SumOfNumbersInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Snacks4/TotalOfNums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Snacks5/BillingInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Snacks5/CardType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Snacks5/CreditCardInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Snacks5/Customers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Snacks5/EStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Snacks5/Items.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Snacks5/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Snacks5/ProductCategory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Snacks5/ShoppingCart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Snacks5/Users.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Snacks5MBIT/MBITPersonalityTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Snacks5MBIT/MBTIPersonalityTestRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Snacks5MBITTest/MBIT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stacks/Stacks1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringMethods/StrMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/AverageOfValidSums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Populate2DArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/SumOfSecAndFourthNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/SumScore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/SumSecFourthSixthEightTenthInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/SumSecFourthSixthEigthInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/SumValidScores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/TotalOfFiveScores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks2/DoubleArrSize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks2/MultiplyWithoutArith.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TeachBright/AddNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TeachBright/DivideNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TeachBright/MultiplyNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TeachBright/SetAndGetName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TeachBright/Simple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TeachBright/SubtractNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TimeClass/Time1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trial/BarChart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trial/Calculate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trial/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trial/CheckStr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trial/ClaculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trial/Craps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trial/CrapsPlay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trial/DieRoll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trial/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trial/GuessingGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trial/MethodOverload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trial/QAndA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trial/RaisePower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trial/RatingOfMeal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trial/RentalCost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trial/RollDie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trial/Scope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trial/SentinelLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trial/Shapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trial/SwapNums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trial/TryCallStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trial/TryingArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trial/ValidateName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VariableLengthArgumentList/TryVarArgs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/Clock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/DivisibleBy3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/Extreme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/GeoPoliticalZones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/Parlindromes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/RunGeoPoliticalZones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/Shaoes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/TaxCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/Problems.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="0ca250c5-cafe-4dc9-99a2-e6cde96fee3e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Snacks3/MaxAndMinNums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Snacks3/MaxAndMinNums.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -527,7 +353,7 @@
       <workItem from="1685198806888" duration="391000" />
       <workItem from="1685199485388" duration="13000" />
       <workItem from="1685356576180" duration="9150000" />
-      <workItem from="1685400628916" duration="1633000" />
+      <workItem from="1685400628916" duration="2963000" />
     </task>
     <task id="LOCAL-00001" summary="Updated">
       <created>1684230031031</created>
@@ -536,7 +362,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684230031031</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Updated">
+      <created>1685402472000</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685402472000</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
