@@ -4,27 +4,182 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ca250c5-cafe-4dc9-99a2-e6cde96fee3e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C16_Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/tdd/ACTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/tdd/AccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/tdd/BikeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/tdd/CalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/tdd/DrillerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/tdd/TVTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/AC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/Driller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/TV.java" afterDir="false" />
+    <list default="true" id="0ca250c5-cafe-4dc9-99a2-e6cde96fee3e" name="Changes" comment="Updated">
+      <change afterPath="$PROJECT_DIR$/Test2/Arrays/ArrayOfTenIntsRunTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/C16Tests/EncryptionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/C16Tests/FactoralTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/C16Tests/StringReverseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/Chapter5/ParkingChargesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/ChapterThree/HeartRateCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/Diary/DiaryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/JoyTask/ArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/JoyTask/ValidateDataTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/ListInterface/Liste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/ListInterface/ListeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/Reflection/ThingsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/Snacks4/ParlindromeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/Stacks/Stacks1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/Tasks2/DoubleArrSizeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/Tasks2/MultiplyWithoutArithTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/TeachBright/AddNumbersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/TeachBright/DivideNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/TeachBright/MultiplyNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/TeachBright/SetAndGetNameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/TeachBright/SimpleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/TeachBright/SubtractNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/TimeClass/TimeClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/classwork/ClockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/classwork/DivisibleBy3Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/classwork/GeopoliticalZoneTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/classwork/ParlindromesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/classwork/TaxCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/tdd/Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/ModifyArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/MoreOnArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/TryArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayMethods/TryArrayMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ArrayOfTenInts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ArrayOfTenIntsRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ArrayReg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ArraysAndFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ArraysTrials.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ElementsInArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/FindAverageIn2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/GetAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/MaxAndMinInArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/MultidimensionalArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/SumValOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/TryAndCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/TryArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/TryTwoDArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/TwoDArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C16Tests/Arithmetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C16Tests/Encryption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C16Tests/Enums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C16Tests/EnumsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C16Tests/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C16Tests/NewFactorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C16Tests/StringReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C16Tests/StringReverseRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C16Tests/TriangleShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CardValidation/CreditCardValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/ParkingCharges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/Parlindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/PerfectNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/RunParkingCharges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChapterThree/HeartRates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeWars/AddFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeWars/DnaToRna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeWars/IsItADigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeWars/IsItAValidNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeWars/SetAlarm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/Stacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Diary/Dairy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JoyTask/ValidateData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MethodOverloading/OverloadMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MethodOverloading/OverloadMethodMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectsAndArguments/ArrTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectsAndArguments/MyArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PhoneApp/PhoneApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PhoneApp/PhoneAppControls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PhoneAppTrial/MyApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PhoneAppTrial/MyPhoneApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reflection/Animals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reflection/Aves.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reflection/Invertibrate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reflection/LivingThing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reflection/Mammal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reflection/NonLivingThing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reflection/Pisces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reflection/Plants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reflection/Things.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reflection/Vertebrate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reflection/download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Snacks3/AddSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Snacks3/HeartRatesApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Snacks3/Patterns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Snacks3/PrimeNums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Snacks3/SumOfNaturalNums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Snacks4/AlternateConcatArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Snacks4/ConcatenateArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Snacks4/FindElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Snacks4/GetEvenIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Snacks4/ListOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Snacks4/MaxInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Snacks4/NumbersAtEvenIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Snacks4/Parlindromes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Snacks4/SumOfNumbersInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Snacks4/TotalOfNums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Snacks5/BillingInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Snacks5/CardType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Snacks5/CreditCardInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Snacks5/Customers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Snacks5/EStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Snacks5/Items.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Snacks5/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Snacks5/ProductCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Snacks5/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Snacks5/Users.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Snacks5MBIT/MBITPersonalityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Snacks5MBIT/MBTIPersonalityTestRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Snacks5MBITTest/MBIT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stacks/Stacks1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringMethods/StrMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/AverageOfValidSums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/Populate2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/SumOfSecAndFourthNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/SumScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/SumSecFourthSixthEightTenthInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/SumSecFourthSixthEigthInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/SumValidScores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/TotalOfFiveScores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks2/DoubleArrSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks2/MultiplyWithoutArith.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TeachBright/AddNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TeachBright/DivideNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TeachBright/MultiplyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TeachBright/SetAndGetName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TeachBright/Simple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TeachBright/SubtractNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TimeClass/Time1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trial/BarChart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trial/Calculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trial/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trial/CheckStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trial/ClaculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trial/Craps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trial/CrapsPlay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trial/DieRoll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trial/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trial/GuessingGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trial/MethodOverload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trial/QAndA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trial/RaisePower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trial/RatingOfMeal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trial/RentalCost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trial/RollDie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trial/Scope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trial/SentinelLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trial/Shapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trial/SwapNums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trial/TryCallStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trial/TryingArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trial/ValidateName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VariableLengthArgumentList/TryVarArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classwork/Clock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classwork/DivisibleBy3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classwork/Extreme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classwork/GeoPoliticalZones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classwork/Parlindromes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classwork/RunGeoPoliticalZones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classwork/Shaoes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classwork/TaxCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/Problems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Snacks3/MaxAndMinNums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Snacks3/MaxAndMinNums.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,12 +189,26 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="81361c91-64ae-47b9-b3bc-bb925eeb336d" />
+        <option name="url" value="https://github.com/Vee39/Java.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -55,105 +224,117 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-Download Shared Index&quot;: &quot;Shared indexes available&quot;,
+    &quot;Notification.DoNotAsk-Download Shared Index&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
     &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_directory_selection&quot;: &quot;C:/Users/Chidinma Emeadi/IdeaProjects/Demo/src/account&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/Chidinma Emeadi/IdeaProjects/Demo/src/ChapterThree&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
-      <recent name="tdd" />
-      <recent name="account" />
+      <recent name="ListInterface" />
+      <recent name="Stacks" />
+      <recent name="Diary" />
+      <recent name="Tasks2" />
+      <recent name="Reflection" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="TeachBright" />
+      <recent name="Chapter5" />
+      <recent name="tdd" />
+      <recent name="Trial" />
       <recent name="account" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.BikeTest">
-    <configuration name="BikeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ListeTest">
+    <configuration name="ListeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="C16_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tdd.*" />
+          <option name="PATTERN" value="ListInterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tdd" />
-      <option name="MAIN_CLASS_NAME" value="tdd.BikeTest" />
+      <option name="PACKAGE_NAME" value="ListInterface" />
+      <option name="MAIN_CLASS_NAME" value="ListInterface.ListeTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BikeTest.checkBikeIsPresentAndOn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Stacks1Test.Peek_returnLastGuyAtTheTopTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="C16_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tdd.*" />
+          <option name="PATTERN" value="Stacks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tdd" />
-      <option name="MAIN_CLASS_NAME" value="tdd.BikeTest" />
-      <option name="METHOD_NAME" value="checkBikeIsPresentAndOn" />
+      <option name="PACKAGE_NAME" value="Stacks" />
+      <option name="MAIN_CLASS_NAME" value="Stacks.Stacks1Test" />
+      <option name="METHOD_NAME" value="Peek_returnLastGuyAtTheTopTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BikeTest.testBikeCanBeAccelerated" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Stacks1Test.Pop_returnPopedValueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="C16_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tdd.*" />
+          <option name="PATTERN" value="Stacks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tdd" />
-      <option name="MAIN_CLASS_NAME" value="tdd.BikeTest" />
-      <option name="METHOD_NAME" value="testBikeCanBeAccelerated" />
+      <option name="PACKAGE_NAME" value="Stacks" />
+      <option name="MAIN_CLASS_NAME" value="Stacks.Stacks1Test" />
+      <option name="METHOD_NAME" value="Pop_returnPopedValueTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BikeTest.testBikeCanBeDeccelerated" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Stacks1Test.stackIsFullTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="C16_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tdd.*" />
+          <option name="PATTERN" value="Stacks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tdd" />
-      <option name="MAIN_CLASS_NAME" value="tdd.BikeTest" />
-      <option name="METHOD_NAME" value="testBikeCanBeDeccelerated" />
+      <option name="PACKAGE_NAME" value="Stacks" />
+      <option name="MAIN_CLASS_NAME" value="Stacks.Stacks1Test" />
+      <option name="METHOD_NAME" value="stackIsFullTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BikeTest.testBikeCanBeTurnedOff" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Stacks1Test.stackOverFlowTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="C16_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tdd.*" />
+          <option name="PATTERN" value="Stacks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tdd" />
-      <option name="MAIN_CLASS_NAME" value="tdd.BikeTest" />
-      <option name="METHOD_NAME" value="testBikeCanBeTurnedOff" />
+      <option name="PACKAGE_NAME" value="Stacks" />
+      <option name="MAIN_CLASS_NAME" value="Stacks.Stacks1Test" />
+      <option name="METHOD_NAME" value="stackOverFlowTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -161,11 +342,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.BikeTest" />
-        <item itemvalue="JUnit.BikeTest.testBikeCanBeDeccelerated" />
-        <item itemvalue="JUnit.BikeTest.testBikeCanBeAccelerated" />
-        <item itemvalue="JUnit.BikeTest.testBikeCanBeTurnedOff" />
-        <item itemvalue="JUnit.BikeTest.checkBikeIsPresentAndOn" />
+        <item itemvalue="JUnit.ListeTest" />
+        <item itemvalue="JUnit.Stacks1Test.stackOverFlowTest" />
+        <item itemvalue="JUnit.Stacks1Test.stackIsFullTest" />
+        <item itemvalue="JUnit.Stacks1Test.Peek_returnLastGuyAtTheTopTest" />
+        <item itemvalue="JUnit.Stacks1Test.Pop_returnPopedValueTest" />
       </list>
     </recent_temporary>
   </component>
@@ -191,12 +372,179 @@
       <workItem from="1679845047803" duration="291000" />
       <workItem from="1679845544052" duration="107000" />
       <workItem from="1679845671801" duration="13000" />
-      <workItem from="1679875564967" duration="6609000" />
+      <workItem from="1679875564967" duration="7884000" />
+      <workItem from="1679906606248" duration="25000" />
+      <workItem from="1679952252787" duration="2463000" />
+      <workItem from="1679989769217" duration="2148000" />
+      <workItem from="1679996745914" duration="1929000" />
+      <workItem from="1680001886938" duration="2909000" />
+      <workItem from="1680035554320" duration="4700000" />
+      <workItem from="1680078183892" duration="10563000" />
+      <workItem from="1680089677282" duration="10246000" />
+      <workItem from="1680101756867" duration="1166000" />
+      <workItem from="1680105085118" duration="379000" />
+      <workItem from="1680108592993" duration="7000" />
+      <workItem from="1680122093479" duration="839000" />
+      <workItem from="1680200043662" duration="8029000" />
+      <workItem from="1680216556008" duration="2764000" />
+      <workItem from="1680240808463" duration="1020000" />
+      <workItem from="1680245262240" duration="1344000" />
+      <workItem from="1680250083909" duration="11015000" />
+      <workItem from="1680269065366" duration="618000" />
+      <workItem from="1680274376010" duration="335000" />
+      <workItem from="1680300069455" duration="3030000" />
+      <workItem from="1680304307585" duration="20000" />
+      <workItem from="1680306574593" duration="1097000" />
+      <workItem from="1680344838237" duration="596000" />
+      <workItem from="1680347277206" duration="1906000" />
+      <workItem from="1680379244273" duration="1605000" />
+      <workItem from="1680440265642" duration="1823000" />
+      <workItem from="1680449138748" duration="3073000" />
+      <workItem from="1680549179103" duration="4616000" />
+      <workItem from="1680596857264" duration="409000" />
+      <workItem from="1680602129541" duration="7683000" />
+      <workItem from="1680619495303" duration="91000" />
+      <workItem from="1680621697188" duration="596000" />
+      <workItem from="1680623305071" duration="2500000" />
+      <workItem from="1680768738500" duration="24096000" />
+      <workItem from="1680860352952" duration="2339000" />
+      <workItem from="1680881381766" duration="6220000" />
+      <workItem from="1680893494230" duration="250000" />
+      <workItem from="1680939084650" duration="22033000" />
+      <workItem from="1680962486604" duration="2513000" />
+      <workItem from="1680970951613" duration="7691000" />
+      <workItem from="1680983087177" duration="1967000" />
+      <workItem from="1681046781368" duration="6000" />
+      <workItem from="1681046954892" duration="274000" />
+      <workItem from="1681109172615" duration="17312000" />
+      <workItem from="1681128418639" duration="7294000" />
+      <workItem from="1681135884426" duration="185000" />
+      <workItem from="1681160240216" duration="1082000" />
+      <workItem from="1681161945135" duration="5047000" />
+      <workItem from="1681198874202" duration="1878000" />
+      <workItem from="1681206940711" duration="104000" />
+      <workItem from="1681216191668" duration="14584000" />
+      <workItem from="1681232543717" duration="1955000" />
+      <workItem from="1681250885554" duration="4160000" />
+      <workItem from="1681255323853" duration="821000" />
+      <workItem from="1681287016900" duration="233000" />
+      <workItem from="1681287296244" duration="570000" />
+      <workItem from="1681291638586" duration="550000" />
+      <workItem from="1681300502182" duration="6688000" />
+      <workItem from="1681314895811" duration="598000" />
+      <workItem from="1681330809343" duration="1234000" />
+      <workItem from="1681381817748" duration="1413000" />
+      <workItem from="1681386716367" duration="5427000" />
+      <workItem from="1681394047050" duration="284000" />
+      <workItem from="1681419645209" duration="2736000" />
+      <workItem from="1681459025554" duration="24000000" />
+      <workItem from="1681579301958" duration="4741000" />
+      <workItem from="1681686611715" duration="1087000" />
+      <workItem from="1681734495238" duration="3769000" />
+      <workItem from="1681754832602" duration="1715000" />
+      <workItem from="1681771795325" duration="1975000" />
+      <workItem from="1681803806945" duration="26582000" />
+      <workItem from="1681861447978" duration="2339000" />
+      <workItem from="1681891233783" duration="288000" />
+      <workItem from="1681899075230" duration="14034000" />
+      <workItem from="1681936101104" duration="1321000" />
+      <workItem from="1681994151683" duration="1580000" />
+      <workItem from="1682009335557" duration="1174000" />
+      <workItem from="1682032160476" duration="688000" />
+      <workItem from="1682089436523" duration="4775000" />
+      <workItem from="1682109295500" duration="207000" />
+      <workItem from="1682109545509" duration="1000" />
+      <workItem from="1682385833284" duration="582000" />
+      <workItem from="1682423484905" duration="1288000" />
+      <workItem from="1682442659298" duration="2562000" />
+      <workItem from="1682461339472" duration="1759000" />
+      <workItem from="1682497144932" duration="15663000" />
+      <workItem from="1682531566954" duration="1922000" />
+      <workItem from="1682594083907" duration="2964000" />
+      <workItem from="1682612934694" duration="6455000" />
+      <workItem from="1682933583734" duration="1437000" />
+      <workItem from="1683021690686" duration="1628000" />
+      <workItem from="1683104357067" duration="1147000" />
+      <workItem from="1683110719940" duration="2461000" />
+      <workItem from="1683113372037" duration="103000" />
+      <workItem from="1683118709950" duration="6647000" />
+      <workItem from="1683200041361" duration="347000" />
+      <workItem from="1683202721291" duration="213000" />
+      <workItem from="1683268562556" duration="629000" />
+      <workItem from="1683276212596" duration="15189000" />
+      <workItem from="1683388430250" duration="3180000" />
+      <workItem from="1683511075978" duration="729000" />
+      <workItem from="1683566248895" duration="537000" />
+      <workItem from="1683623090087" duration="17944000" />
+      <workItem from="1683651848922" duration="6341000" />
+      <workItem from="1683669046047" duration="1210000" />
+      <workItem from="1683705972431" duration="3055000" />
+      <workItem from="1683723630777" duration="16586000" />
+      <workItem from="1683762533931" duration="78000" />
+      <workItem from="1683890327654" duration="12202000" />
+      <workItem from="1683906623062" duration="248000" />
+      <workItem from="1684009492897" duration="9196000" />
+      <workItem from="1684139781865" duration="1847000" />
+      <workItem from="1684146243644" duration="4097000" />
+      <workItem from="1684204800037" duration="7903000" />
+      <workItem from="1684224924654" duration="1835000" />
+      <workItem from="1684234473187" duration="1101000" />
+      <workItem from="1684242974523" duration="595000" />
+      <workItem from="1684244409508" duration="4849000" />
+      <workItem from="1684256895523" duration="327000" />
+      <workItem from="1684333900922" duration="628000" />
+      <workItem from="1684365379097" duration="7385000" />
+      <workItem from="1684401872028" duration="765000" />
+      <workItem from="1684407469560" duration="3577000" />
+      <workItem from="1684463654615" duration="8236000" />
+      <workItem from="1684495941415" duration="9478000" />
+      <workItem from="1684622677705" duration="11179000" />
+      <workItem from="1684668535494" duration="12005000" />
+      <workItem from="1684693405160" duration="3131000" />
+      <workItem from="1684727572518" duration="295000" />
+      <workItem from="1684730313351" duration="2914000" />
+      <workItem from="1684738186593" duration="1105000" />
+      <workItem from="1684742761767" duration="160000" />
+      <workItem from="1684747798670" duration="6728000" />
+      <workItem from="1684769845062" duration="2443000" />
+      <workItem from="1684772459261" duration="13000" />
+      <workItem from="1684772521402" duration="6000" />
+      <workItem from="1684772650921" duration="393000" />
+      <workItem from="1684883106482" duration="8882000" />
+      <workItem from="1684892983393" duration="1313000" />
+      <workItem from="1684915072634" duration="643000" />
+      <workItem from="1684929006649" duration="12810000" />
+      <workItem from="1685005307351" duration="3023000" />
+      <workItem from="1685014735632" duration="5796000" />
+      <workItem from="1685028663524" duration="236000" />
+      <workItem from="1685054607466" duration="735000" />
+      <workItem from="1685087988035" duration="5413000" />
+      <workItem from="1685099863623" duration="1819000" />
+      <workItem from="1685105568135" duration="2885000" />
+      <workItem from="1685109855678" duration="2869000" />
+      <workItem from="1685123078530" duration="1948000" />
+      <workItem from="1685158246972" duration="90000" />
+      <workItem from="1685198806888" duration="391000" />
+      <workItem from="1685199485388" duration="13000" />
+      <workItem from="1685356576180" duration="9150000" />
+      <workItem from="1685400628916" duration="1633000" />
     </task>
+    <task id="LOCAL-00001" summary="Updated">
+      <created>1684230031031</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684230031031</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -213,7 +561,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Test2/tdd/TVTest.java</url>
           <line>9</line>
-          <properties class="tdd.TVTest" method="checkTVIsPresent">
+          <properties class="tdd.TVTest" method="checkTVIsPresentAndOn">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -237,7 +585,112 @@
           </properties>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Trial/Scope.java</url>
+          <line>15</line>
+          <properties class="Trial.Scope" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Trial/RaisePower.java</url>
+          <line>3</line>
+          <properties class="Trial.RaisePower" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Arrays.java</url>
+          <line>1</line>
+          <properties class="Arrays" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Snacks3/Patterns.java</url>
+          <line>3</line>
+          <properties class="Snacks3.Patterns" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Snacks3/PrimeNums.java</url>
+          <line>5</line>
+          <properties class="Snacks3.PrimeNums" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Test2/ChapterThree/HeartRateCalculatorTest.java</url>
+          <line>39</line>
+          <properties class="ChapterThree.HeartRateCalculatorTest" method="testSetFirstName">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Test2/TimeClass/TimeClassTest.java</url>
+          <line>9</line>
+          <properties class="TimeClass.TimeClassTest" method="testTimeValidates">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Test2/Stacks/Stacks1Test.java</url>
+          <line>41</line>
+          <properties class="Stacks.Stacks1Test" method="Pop_returnPopedValueTest">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Trial/Shapes.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/ArraysTrials.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Test2/Stacks/Stacks1Test.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Test2/Stacks/Stacks1Test.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="29" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Demo$PhoneApp.ic" NAME="PhoneApp Coverage Results" MODIFIED="1681135552863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>PhoneAppTrial.*</FILTER>
+    </SUITE>
   </component>
 </project>
