@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ca250c5-cafe-4dc9-99a2-e6cde96fee3e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C16_Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Demo.iml" afterDir="false" />
-    </list>
+    <list default="true" id="0ca250c5-cafe-4dc9-99a2-e6cde96fee3e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -169,19 +166,6 @@
       <option name="MAIN_CLASS_NAME" value="Stacks.Stacks1Test" />
       <option name="METHOD_NAME" value="stackOverFlowTest" />
       <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="Demo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="Demo" />
-      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -373,7 +357,7 @@
       <workItem from="1685198806888" duration="391000" />
       <workItem from="1685199485388" duration="13000" />
       <workItem from="1685356576180" duration="9150000" />
-      <workItem from="1685400628916" duration="4481000" />
+      <workItem from="1685400628916" duration="5271000" />
     </task>
     <task id="LOCAL-00001" summary="Updated">
       <created>1684230031031</created>
@@ -396,7 +380,21 @@
       <option name="project" value="LOCAL" />
       <updated>1685403712975</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Updated">
+      <created>1685405330077</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685405330077</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Updated">
+      <created>1685405384411</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685405384411</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
