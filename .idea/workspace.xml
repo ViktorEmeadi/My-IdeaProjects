@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0ca250c5-cafe-4dc9-99a2-e6cde96fee3e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C16_Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Demo.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +22,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -88,7 +95,7 @@
   </component>
   <component name="RunManager" selected="JUnit.ListeTest">
     <configuration name="ListeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="C16_Java" />
+      <module name="Demo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ListInterface.*" />
@@ -103,7 +110,7 @@
       </method>
     </configuration>
     <configuration name="Stacks1Test.Peek_returnLastGuyAtTheTopTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="C16_Java" />
+      <module name="Demo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Stacks.*" />
@@ -119,7 +126,7 @@
       </method>
     </configuration>
     <configuration name="Stacks1Test.Pop_returnPopedValueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="C16_Java" />
+      <module name="Demo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Stacks.*" />
@@ -135,7 +142,7 @@
       </method>
     </configuration>
     <configuration name="Stacks1Test.stackIsFullTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="C16_Java" />
+      <module name="Demo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Stacks.*" />
@@ -151,7 +158,7 @@
       </method>
     </configuration>
     <configuration name="Stacks1Test.stackOverFlowTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="C16_Java" />
+      <module name="Demo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Stacks.*" />
@@ -162,6 +169,19 @@
       <option name="MAIN_CLASS_NAME" value="Stacks.Stacks1Test" />
       <option name="METHOD_NAME" value="stackOverFlowTest" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Demo" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -353,7 +373,7 @@
       <workItem from="1685198806888" duration="391000" />
       <workItem from="1685199485388" duration="13000" />
       <workItem from="1685356576180" duration="9150000" />
-      <workItem from="1685400628916" duration="2963000" />
+      <workItem from="1685400628916" duration="4481000" />
     </task>
     <task id="LOCAL-00001" summary="Updated">
       <created>1684230031031</created>
@@ -369,7 +389,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685402472000</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Updated">
+      <created>1685403712975</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685403712975</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
