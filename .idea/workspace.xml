@@ -4,7 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ca250c5-cafe-4dc9-99a2-e6cde96fee3e" name="Changes" comment="" />
+    <list default="true" id="0ca250c5-cafe-4dc9-99a2-e6cde96fee3e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Test2/Arrays/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/AverageInArray/AverageOfNumsInArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/AverageInArray/AverageOfNumsInArrTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/Bank/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/Bank/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/Bank/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/Bank/BankTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/Bank/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/Bicycle/Bicycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/ChapterEleven/Ewa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/ChapterEleven/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/ChapterEleven/Messenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/CountVal/CountVal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/CountVal/CountValTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/Diary/Diary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/Diary/Entry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/Diary2/Diary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/Diary2/DiaryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/Diary2/Gist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/List/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/List/MyListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/Tasks2/SplitVal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/Tasks2/SplitValsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/methods/SmallestInThreeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/methods/SmallestInThreeNumbersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/tryyyy/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/tryyyy/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/tryyyy/Learn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/tryyyy/LearnTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CountOccurence/CountOccurenceInListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test2/Diary/DiaryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test2/Diary/DiaryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test2/Stacks/Stacks1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test2/Stacks/Stacks1Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stacks/Stacks1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stacks/Stacks1.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +99,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
-    &quot;last_directory_selection&quot;: &quot;C:/Users/Chidinma Emeadi/IdeaProjects/Demo/src/ChapterThree&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/Chidinma Emeadi/IdeaProjects/Demo/Test2/Diary&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -76,11 +111,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
-      <recent name="ListInterface" />
-      <recent name="Stacks" />
-      <recent name="Diary" />
       <recent name="Tasks2" />
-      <recent name="Reflection" />
+      <recent name="tryyyy" />
+      <recent name="ChapterEleven" />
+      <recent name="List" />
+      <recent name="CountVal" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="TeachBright" />
@@ -90,81 +125,80 @@
       <recent name="account" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ListeTest">
-    <configuration name="ListeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.BankTest.testDeposit">
+    <configuration name="AccountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ListInterface.*" />
+          <option name="PATTERN" value="Bank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ListInterface" />
-      <option name="MAIN_CLASS_NAME" value="ListInterface.ListeTest" />
+      <option name="PACKAGE_NAME" value="Bank" />
+      <option name="MAIN_CLASS_NAME" value="Bank.AccountTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stacks1Test.Peek_returnLastGuyAtTheTopTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BankTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stacks.*" />
+          <option name="PATTERN" value="Bank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Stacks" />
-      <option name="MAIN_CLASS_NAME" value="Stacks.Stacks1Test" />
-      <option name="METHOD_NAME" value="Peek_returnLastGuyAtTheTopTest" />
+      <option name="PACKAGE_NAME" value="Bank" />
+      <option name="MAIN_CLASS_NAME" value="Bank.BankTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankTest.testDeposit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Bank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Bank" />
+      <option name="MAIN_CLASS_NAME" value="Bank.BankTest" />
+      <option name="METHOD_NAME" value="testDeposit" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stacks1Test.Pop_returnPopedValueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BankTest.testWithdraw" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stacks.*" />
+          <option name="PATTERN" value="Bank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Stacks" />
-      <option name="MAIN_CLASS_NAME" value="Stacks.Stacks1Test" />
-      <option name="METHOD_NAME" value="Pop_returnPopedValueTest" />
+      <option name="PACKAGE_NAME" value="Bank" />
+      <option name="MAIN_CLASS_NAME" value="Bank.BankTest" />
+      <option name="METHOD_NAME" value="testWithdraw" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stacks1Test.stackIsFullTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SplitValsTest.testValsSplit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stacks.*" />
+          <option name="PATTERN" value="Tasks2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Stacks" />
-      <option name="MAIN_CLASS_NAME" value="Stacks.Stacks1Test" />
-      <option name="METHOD_NAME" value="stackIsFullTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Stacks1Test.stackOverFlowTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Stacks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Stacks" />
-      <option name="MAIN_CLASS_NAME" value="Stacks.Stacks1Test" />
-      <option name="METHOD_NAME" value="stackOverFlowTest" />
+      <option name="PACKAGE_NAME" value="Tasks2" />
+      <option name="MAIN_CLASS_NAME" value="Tasks2.SplitValsTest" />
+      <option name="METHOD_NAME" value="testValsSplit" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -172,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ListeTest" />
-        <item itemvalue="JUnit.Stacks1Test.stackOverFlowTest" />
-        <item itemvalue="JUnit.Stacks1Test.stackIsFullTest" />
-        <item itemvalue="JUnit.Stacks1Test.Peek_returnLastGuyAtTheTopTest" />
-        <item itemvalue="JUnit.Stacks1Test.Pop_returnPopedValueTest" />
+        <item itemvalue="JUnit.BankTest.testDeposit" />
+        <item itemvalue="JUnit.BankTest" />
+        <item itemvalue="JUnit.BankTest.testWithdraw" />
+        <item itemvalue="JUnit.AccountTest" />
+        <item itemvalue="JUnit.SplitValsTest.testValsSplit" />
       </list>
     </recent_temporary>
   </component>
@@ -358,6 +392,34 @@
       <workItem from="1685199485388" duration="13000" />
       <workItem from="1685356576180" duration="9150000" />
       <workItem from="1685400628916" duration="5271000" />
+      <workItem from="1685442223070" duration="832000" />
+      <workItem from="1685443286698" duration="16000" />
+      <workItem from="1685443431230" duration="544000" />
+      <workItem from="1685548836997" duration="8707000" />
+      <workItem from="1685601002056" duration="2060000" />
+      <workItem from="1685606249664" duration="667000" />
+      <workItem from="1685619554095" duration="2741000" />
+      <workItem from="1685632378981" duration="4245000" />
+      <workItem from="1685653030242" duration="3896000" />
+      <workItem from="1685691982035" duration="4053000" />
+      <workItem from="1685700657308" duration="8650000" />
+      <workItem from="1685725823153" duration="8215000" />
+      <workItem from="1685783413256" duration="27649000" />
+      <workItem from="1685829542080" duration="1808000" />
+      <workItem from="1685879048928" duration="23316000" />
+      <workItem from="1685944657981" duration="1840000" />
+      <workItem from="1685950436319" duration="13216000" />
+      <workItem from="1685976282700" duration="4603000" />
+      <workItem from="1686039174832" duration="620000" />
+      <workItem from="1686049618263" duration="8639000" />
+      <workItem from="1686086688186" duration="11909000" />
+      <workItem from="1686140533434" duration="2548000" />
+      <workItem from="1686211542803" duration="368000" />
+      <workItem from="1686212019199" duration="1634000" />
+      <workItem from="1686223584876" duration="712000" />
+      <workItem from="1686225073603" duration="2841000" />
+      <workItem from="1686230273792" duration="1984000" />
+      <workItem from="1686239522146" duration="21000" />
     </task>
     <task id="LOCAL-00001" summary="Updated">
       <created>1684230031031</created>
@@ -394,7 +456,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685405384411</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Updated">
+      <created>1685442520927</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1685442520927</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -509,11 +578,47 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Test2/Stacks/Stacks1Test.java</url>
           <line>41</line>
-          <properties class="Stacks.Stacks1Test" method="Pop_returnPopedValueTest">
+          <properties class="Stacks.Stacks1Test">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Test2/AverageInArray/AverageOfNumsInArrTest.java</url>
+          <line>14</line>
+          <properties class="AverageInArray.AverageOfNumsInArrTest" method="testForAverage">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Test2/Bank/BankTest.java</url>
+          <line>15</line>
+          <properties class="Bank.BankTest" method="set">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Test2/List/MyListTest.java</url>
+          <line>40</line>
+          <properties class="List.MyListTest" method="testRemoveElementByIndex">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Test2/List/MyListTest.java</url>
+          <line>167</line>
+          <properties class="List.MyListTest" method="testContainsTrue">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="48" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Trial/Shapes.java</url>
@@ -534,6 +639,16 @@
           <url>file://$PROJECT_DIR$/Test2/Stacks/Stacks1Test.java</url>
           <line>38</line>
           <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Test2/Bank/BankTest.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Test2/Bank/Main.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="49" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />

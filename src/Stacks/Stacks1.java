@@ -28,8 +28,7 @@ public class Stacks1 {
     }
 
     public boolean isFull() {
+
         return counter == elements.length;
     }
-
-
 }

@@ -12,7 +12,7 @@ public class Stacks1Test {
 
     @BeforeEach
     public void set() {
-        stacks1 = new Stacks1(5);
+        stacks1 = new Stacks1(6);
     }
 
     @Test
@@ -64,6 +64,8 @@ public class Stacks1Test {
         stacks1.push("Pan");
         stacks1.push("Jerry");
         stacks1.push("Tommy");
+        stacks1.push("Pistol");
+        stacks1.pop();
         assertTrue(stacks1.isFull());
     }
 
