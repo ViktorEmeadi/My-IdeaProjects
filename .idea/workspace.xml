@@ -4,42 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ca250c5-cafe-4dc9-99a2-e6cde96fee3e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Test2/Arrays/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/AverageInArray/AverageOfNumsInArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/AverageInArray/AverageOfNumsInArrTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/Bank/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/Bank/AccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/Bank/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/Bank/BankTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/Bank/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/Bicycle/Bicycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/ChapterEleven/Ewa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/ChapterEleven/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/ChapterEleven/Messenger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/CountVal/CountVal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/CountVal/CountValTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/Diary/Diary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/Diary/Entry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/Diary2/Diary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/Diary2/DiaryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/Diary2/Gist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/List/MyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/List/MyListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/Tasks2/SplitVal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/Tasks2/SplitValsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/methods/SmallestInThreeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/methods/SmallestInThreeNumbersTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/tryyyy/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/tryyyy/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/tryyyy/Learn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2/tryyyy/LearnTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CountOccurence/CountOccurenceInListTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test2/Diary/DiaryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test2/Diary/DiaryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test2/Stacks/Stacks1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test2/Stacks/Stacks1Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Stacks/Stacks1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stacks/Stacks1.java" afterDir="false" />
-    </list>
+    <list default="true" id="0ca250c5-cafe-4dc9-99a2-e6cde96fee3e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -420,6 +385,7 @@
       <workItem from="1686225073603" duration="2841000" />
       <workItem from="1686230273792" duration="1984000" />
       <workItem from="1686239522146" duration="21000" />
+      <workItem from="1686241772788" duration="364000" />
     </task>
     <task id="LOCAL-00001" summary="Updated">
       <created>1684230031031</created>
